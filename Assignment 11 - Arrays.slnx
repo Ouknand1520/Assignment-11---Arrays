@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assignment 11 - Arrays/Assignment 11 - Arrays.vcxproj" />
+</Solution>
